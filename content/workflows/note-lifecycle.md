@@ -12,7 +12,7 @@ tags:
 
 ## Stage 1: Capture
 
-目标是留下线索，而不是写完整文章。
+目标是留下线索，完整文章放到后面再处理。
 
 ## Stage 2: Clarify
 

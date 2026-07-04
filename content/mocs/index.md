@@ -5,7 +5,7 @@ description: Site-wide Maps of Content index
 
 # Maps of Content
 
-这些页面是站点的“地图”，不是内容仓库。
+这些页面承担站点“地图”的职责，内容仓库放在具体笔记里。
 
 按照 LYT / Ideaverse 的思路，MOC 的作用是：
 
@@ -17,7 +17,6 @@ description: Site-wide Maps of Content index
 ## 主题地图
 
 - [[ai-ml|AI / 机器学习]]
-- [[mysql|MySQL]]
 - [[python|Python]]
 - [[knowledge-management|知识管理]]
 - [[ziwei-doushu|紫微斗数]]

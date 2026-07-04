@@ -1,3 +1,39 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+article {
+  --kg-link-bg: rgba(102, 120, 231, 0.14);
+  --kg-link-bg-hover: rgba(102, 120, 231, 0.22);
+  --kg-mark-bg: rgba(255, 225, 128, 0.45);
+
+  p,
+  li {
+    line-height: 1.82;
+  }
+
+  a.internal,
+  a.external {
+    background: var(--kg-link-bg);
+    border-radius: 4px;
+    padding: 0.02em 0.2em;
+    font-weight: 650;
+    text-decoration: none;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+  }
+
+  a.internal:hover,
+  a.external:hover {
+    background: var(--kg-link-bg-hover);
+  }
+}
+
+.kg-mark,
+mark {
+  background: var(--kg-mark-bg);
+  border-radius: 4px;
+  padding: 0.04em 0.22em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}

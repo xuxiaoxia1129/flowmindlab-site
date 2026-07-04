@@ -37,7 +37,7 @@ description: Personal profile, skills, and contact information
 
 **万事万物皆可数据。**
 
-这不是一句口号，而是我正在一点点验证的路径。
+这句话对我来说是一条正在一点点验证的路径。
 
 ---
 
@@ -65,9 +65,9 @@ description: Personal profile, skills, and contact information
 
 也正是在这个阶段，我逐渐意识到：
 
-命理并不是“玄”，而是**尚未被现代语言充分表达的结构化系统**。
+我更愿意把命理理解成：**尚未被现代语言充分表达的结构化系统**。
 
-这也是我转向数据分析与机器学习的原因——不是转行，而是补基础设施。
+这也是我转向数据分析与机器学习的原因：它是在补基础设施。
 
 ---
 
@@ -102,7 +102,7 @@ description: Personal profile, skills, and contact information
 - 模型理解与实践
     
 
-不是为了做算法本身，而是为了解决一个问题：
+我的目标不在算法本身，我真正想解决的是这个问题：
 
 > 当数据复杂度足够高时，人脑不再够用。
 
@@ -161,7 +161,7 @@ description: Personal profile, skills, and contact information
     
 - 输出方法论与实践过程
     
-这里不会是“结论合集”，而是一个**持续演化的过程记录**。
+这里会是一份**持续演化的过程记录**，结论只会作为阶段性产物出现。
 
 ---
 
@@ -198,7 +198,6 @@ description: Personal profile, skills, and contact information
 ## 我在持续研究的方向
 
 - AI / 机器学习
-- MySQL 与数据库实战
 - Python 学习与自动化
 - Obsidian / Quartz / 知识管理
 - 紫微斗数

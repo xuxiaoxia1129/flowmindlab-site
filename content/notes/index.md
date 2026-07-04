@@ -10,7 +10,6 @@ description: Entry point for detailed notes
 ## 主题入口
 
 - [[ai-ml/index|AI / 机器学习]]
-- [[mysql/index|MySQL]]
 - [[python/index|Python]]
 - [[knowledge-management/index|知识管理]]
 - [[ziwei-doushu/index|紫微斗数]]
